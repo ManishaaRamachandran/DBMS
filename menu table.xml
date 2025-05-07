@@ -1,0 +1,18 @@
+<XML>
+<menu_master>
+    <item>
+        <item_id>Id_001</item_id>
+        <item_name>Paneer Butter Masala</item_name>
+        <category>Main Course</category>
+        <price>180.00</price>
+        <is_available>true</is_available>
+    </item>
+    <item>
+        <item_id>Id_002</item_id>
+        <item_name>Dosa</item_name>
+        <category>Main Course</category>
+        <price>120.00</price>
+        <is_available>true</is_available>
+    </item>
+</menu_master>
+</XML>
